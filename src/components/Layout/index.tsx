@@ -1,13 +1,15 @@
-import React from 'react'
+import React from 'react';
 
-import { Grid } from './styles'
+import { Grid } from './styles';
+
+import ServerList from '../ServerList';
 
 const Layout: React.FC = () => {
-    return (
-        <Grid>
+  return (
+    <Grid>
+      <ServerList />
+    </Grid>
+  );
+};
 
-        </ Grid>
-    )
-}
-
-export default Layout
+export default Layout;
