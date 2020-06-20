@@ -1,7 +1,5 @@
 import React from 'react';
 
-import Logo from '../../assets/logo.png';
-
 import { Button } from './styles';
 
 export interface Props {
