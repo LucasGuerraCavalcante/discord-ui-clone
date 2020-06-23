@@ -14,34 +14,31 @@ export const Container = styled.div`
     z-index: 2;
 `
 
-export const HashtagIcon = styled(Hashtag)`
-    width: 24px;
-    height: 24px;
+export const Profile = styled.div` 
 
-    color: var(--symbol);
+
+`        
+export const Avatar = styled.div` 
+
+
 `
+export const UserData = styled.div` 
 
-export const Title = styled.h1`
-    margin-left: 9px;
 
-    font-size: 16px;
-    font-weight: bold;
-
-    color: var(--white);
 `
+export const Icons = styled.div` 
 
-export const Separator = styled.div`
-    height: 24px;
-    width: 1px;
 
-    background-color: var(--white);   
-    opacity: 0.2;
-
-    margin: 0 13px;
 `
+export const MicIcon = styled.div` 
 
-export const Description = styled.span`
-    font-size: 15px;
-    color: var(--gray);
+
+`      
+export const HeadphoneIcon = styled.div` 
+
+
+`
+export const SettingsIcon = styled.div` 
+
 
 `
