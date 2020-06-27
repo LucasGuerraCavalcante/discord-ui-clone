@@ -13,7 +13,7 @@ export default createGlobalStyle`
     }
 
     *, button, input {
-        border: 0:
+        border: 0;
         outline: 0;
 
         font-family: 'Roboto', sans-serif;
