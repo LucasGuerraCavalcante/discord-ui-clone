@@ -82,7 +82,6 @@ export const User = styled.span`
         text-transform: uppercase;
         font-weight: bold;
         font-size: 11px;
-
     }
 `
 
