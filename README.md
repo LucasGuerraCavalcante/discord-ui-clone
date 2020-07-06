@@ -1,10 +1,16 @@
 ## Discord ui clone (React JS, Typescript)
 
+## Deploy
+
+https://kind-heyrovsky-2c6233.netlify.app/
+
 ## Preview
 
-soon...
+![gif](http://g.recordit.co/VAvpXK5QZN.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Project inspired by Rocketseat's YouTube channel.
 
 ## Available Scripts
 
